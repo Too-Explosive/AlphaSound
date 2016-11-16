@@ -1,0 +1,7 @@
+def create(phrase):
+     for each character in phrase:
+          add beep with unique pitch and length to file
+     return file
+def decode(file):
+     for each beep in file:
+          append unique letter to phrase
